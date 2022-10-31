@@ -1,0 +1,8 @@
+/*Task List Container*/
+.task-list-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
