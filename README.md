@@ -4,7 +4,7 @@ This project is a task application 📝
 
 ✔ Created with:
 
-🧡React.ja
+🧡React.js
 
 💙CSS
 
